@@ -8,13 +8,15 @@ FF2 includes two classes, the major economically important family Tephritidae an
 |Non-Tephritid flies | 83,941 | 45,103 |
 |Tephritid fruitflies | 5,649 | 5,287 |
 
-TF4 contains four classes, Anastrepha, Ceratitis, Rhagoletis, and Bactrocera. They are under the same family Tephritidae but still differ a lot in morphological characteristics.
+TF4 contains four classes, *Anastrepha*, *Ceratitis*, *Rhagoletis*, and *Bactrocera*. They are under the same family Tephritidae but still differ a lot in morphological characteristics.
 
 | Insect Class | Pre Cleaning | Post Cleaning |
 |:---:|:---:|:---:|
-| Anastrepha | 674 | 671 | 
-| Ceratitis | 1,463 | 747 |
-| Rhagoletis | 1,030 | 948 |
-| Bactrocera | 1,061 | 1,043 |
+| *Anastrepha* | 674 | 671 | 
+| *Ceratitis* | 1,463 | 747 |
+| *Rhagoletis* | 1,030 | 948 |
+| *Bactrocera* | 1,061 | 1,043 |
 
 Both databases can be free accessed and downloaded from the google drive link: https://drive.google.com/drive/folders/1h9eB0W7rjAvDAu0oJVbaVg7Xr7xgjHZC?usp=sharing
+
+The implementation codes are coming soon!
