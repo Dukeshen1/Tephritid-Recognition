@@ -19,4 +19,5 @@ TF4 contains four classes, *Anastrepha*, *Ceratitis*, *Rhagoletis*, and *Bactroc
 
 Both databases can be free accessed and downloaded from the google drive link: https://drive.google.com/drive/folders/1h9eB0W7rjAvDAu0oJVbaVg7Xr7xgjHZC?usp=sharing
 
+Relevant paper published on IECE2021: https://sciforum.net/paper/view/10400
 The implementation codes are coming soon!
